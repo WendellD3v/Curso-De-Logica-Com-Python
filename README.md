@@ -4,4 +4,4 @@
 
 > Aqui veremos o básico e entenderemos como lógica de programação poderá abrir um mundo de portas em nossa mente para que venhamos a aprender qual quer linguagem de programação e neste curso usaremos python para isso. 👨‍💻
 
-### "Ensinar é a melhor forma de aprender" Então estude e compartilhe este conteúudo com seus amigos <3 
+### "Ensinar é a melhor forma de aprender" Então estude e compartilhe este conteúdo com seus amigos <3 
